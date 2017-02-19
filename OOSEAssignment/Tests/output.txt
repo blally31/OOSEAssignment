@@ -1,0 +1,80 @@
+Start year : 1
+End year : 6
+Profit for : B Company is 8.075
+Profit for : A Company is 5.975937500000001
+Profit for : C Company is 3.049375000000003
+Year : 1----------------------------------------
+Company : B Company
+Bank Account Balance : 16.351875
+
+Company : A Company
+Bank Account Balance : 19.9759375
+
+Company : C Company
+Bank Account Balance : 6.024375000000006
+
+Profit for : B Company is 8.412546875
+Profit for : A Company is 4.8203359375
+Profit for : C Company is 2.4606093750000024
+Year : 2----------------------------------------
+Company : B Company
+Bank Account Balance : 24.764421875
+
+Company : A Company
+Bank Account Balance : 197.6337734375
+
+Company : C Company
+Bank Account Balance : 8.484984375000009
+
+Profit for : B Company is 2.744110546875
+Profit for : A Company is 13.354594335937502
+Profit for : C Company is 0.4621246093750003
+Year : 3----------------------------------------
+Company : B Company
+Bank Account Balance : 112.508532421875
+
+Company : A Company
+Bank Account Balance : 115.9883677734375
+
+Company : C Company
+Bank Account Balance : 18.94710898437501
+
+Profit for : B Company is 2.8127133105468753
+Profit for : A Company is 16.94854805664063
+Profit for : C Company is 0.48551966772460964
+Year : 4----------------------------------------
+Company : B Company
+Bank Account Balance : 115.32124573242187
+
+Company : A Company
+Bank Account Balance : 79.38691583007814
+
+Company : C Company
+Bank Account Balance : 19.906306376708994
+
+Profit for : B Company is 2.883031143310547
+Profit for : A Company is 18.604592686407475
+Profit for : C Company is 0.510099100903168
+Year : 5----------------------------------------
+Company : B Company
+Bank Account Balance : 121.15938379762574
+
+Company : A Company
+Bank Account Balance : 97.99150851648562
+
+Company : C Company
+Bank Account Balance : 20.91406313702989
+
+Profit for : B Company is 3.0289845949406438
+Profit for : A Company is 19.157105607032097
+Profit for : C Company is 0.5359228678863909
+Year : 6----------------------------------------
+Company : B Company
+Bank Account Balance : 127.29307760238054
+
+Company : A Company
+Bank Account Balance : 117.14861412351772
+
+Company : C Company
+Bank Account Balance : 21.972837583342027
+

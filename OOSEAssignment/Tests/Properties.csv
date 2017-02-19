@@ -1,0 +1,7 @@
+Name,Type,Owner,Worth,Revenue,Wages
+A Company,C,,241,,
+B Company,C,A Company,135,,
+C Company,C,,51,,
+A Business Unit,B,A Company,65,12,5
+B Business Unit,B,B Company,85,19,3
+C Business Unit,B,C Company,10,31,28
